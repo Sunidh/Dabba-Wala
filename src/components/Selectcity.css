@@ -1,0 +1,70 @@
+
+  .container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 10px;
+    box-sizing: border-box;
+  }
+  
+  .displayCards{
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .citycards{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .citycard{
+    height: 200px;
+    width: 200px;
+    border-radius: 5px;
+    margin: 20px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .logofood{
+    width: 100%;
+    height: 140px;
+    object-fit: cover;
+    border-radius: 5px 5px 0 0;
+  }
+  
+  .citycard p {
+    margin: 10px 0;
+    font-size: 16px;
+  }
+  
+  @media only screen and (min-width: 768px) {
+    .displayCards {
+      justify-content: space-between;
+    }
+    
+    .citycards{
+      flex-direction: row;
+    }
+  
+    .citycard{
+      height: 200px;
+      width: 200px;
+      margin: 10px;
+    }
+  
+    .logofood{
+      height: 150px;
+    }
+  
+    .citycard p {
+      margin: 10px 0;
+      font-size: 18px;
+    }
+  }
+  

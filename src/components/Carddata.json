@@ -1,0 +1,79 @@
+
+[
+    {
+        "logo":"bg1.jpeg",
+        "name":"Patna Mess Services",
+        "ratings":"4 Star",
+        "url":"main/patna"
+       
+    },
+    {
+        "logo":"bg1.jpeg",
+        "name":"Ambala Mess Services",
+        "ratings":"3 star",
+        "url":"main/patna"
+       
+    },
+    {
+        "logo":"bg1.jpeg",
+        "name":"Areraj Mess Services",
+        "ratings":"3 star",
+        "url":"main/patna"
+        
+    },
+    {
+        "logo":"bg1.jpeg",
+        "name":"Amritsar Khana wala",
+        "ratings":"3 star",
+        "url":"main/patna"
+    },
+    {
+        "logo":"bg1.jpeg",
+        "name":"Agra Khana wala",
+        "ratings":"3 star",
+        "url":"main/patna"
+    },
+    {
+        "logo":"bg1.jpeg",
+        "name":"Amravati Khana wala",
+        "ratings":"3 star",
+        "url":"main/patna"
+    },
+    {
+        "logo":"bg1.jpeg",
+        "name":"kota Khana wala",
+        "ratings":"3 star",
+        "url":"main/patna"
+    },
+    {
+        "logo":"bg1.jpeg",
+        "name":"Delhi Khana wala",
+        "ratings":"3 star",
+        "url":"main/"
+    },
+    {
+        "logo":"bg1.jpeg",
+        "name":"Amrit Khana wala",
+        "ratings":"3 star",
+        "url":"main/"
+    },
+    {
+        "logo":"bg1.jpeg",
+        "name":"Mumbai Khana wala",
+        "ratings":"3 star",
+        "url":"main/"
+    },
+    {
+        "logo":"bg1.jpeg",
+        "name":"Pune Khana wala",
+        "ratings":"3 star",
+        "url":"main/"
+    },
+    {
+        "logo":"bg1.jpeg",
+        "name":"Dehradun Khana wala",
+        "ratings":"3 star",
+        "url":"main/"
+    }
+
+]

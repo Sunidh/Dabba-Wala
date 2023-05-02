@@ -1,0 +1,95 @@
+/* .top{
+ background-color: coral;
+ 
+ height: 50px;
+ display: flex;
+ justify-content: space-between;
+}
+.searchbar{
+     margin-bottom: 5px;
+}
+.navbar_search {
+    height: 30px;
+    width: 190px;
+    border-radius: 10px;
+    border: 0px;
+    background-color: white;
+    font-size: 16px;
+    padding-left: 30px;
+    margin-top: 8px;
+    margin-bottom: 5px;
+    margin-left: 30px;
+}
+.usericon{
+    font-size: 21px;
+    margin-top: 5px;
+    margin-right: 30px;
+   
+}
+.tlogo{
+    height: 50px;
+    padding: 5px;
+    margin-left: 10px;
+
+}
+#cityselect{
+   margin-top: 10px;
+   border-radius: 8px;
+   width: 200px;
+   height: 25px;
+   border: none;
+   margin-left: 30px;
+}
+
+.choosebox{
+    border: 2px solid black;
+}
+@media only screen and (max-width:700px) {
+    .top{
+        flex-direction: row;
+        align-items: center;
+        height: auto;
+      }
+      
+      .tlogo{
+        margin: 10px 0;
+      }
+      
+      .searchbar{
+        margin-left: 0;
+        text-align: center;
+      }
+      
+      .navbar_search{
+        width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+      }
+      
+      #cityselect{
+        margin: 10px 0;
+      }
+} */
+@media (max-width: 768px) {
+  .top {
+    display: block;
+  }
+  .searchbar {
+    margin-bottom: 10px;
+  }
+  .alCards {
+    padding: 0px;
+  }
+  .citycards {
+    width: 100%;
+    margin-right: 0;
+  }
+  
+  .logofood {
+    margin-right: 0;
+    margin-bottom: 10px;
+  }
+  .usericon {
+    margin-top: 10px;
+  }
+}

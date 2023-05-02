@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    max-width: 1300px;
+    
+}
+
+.home{
+    height: 100vh;
+    background-image: url('bg2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.buttons{
+    border: none;
+    background: transparent;
+    font-size: 30px;
+    color: white;
+    margin-left: 25px;
+    padding: 0;
+}
+.heading{
+    color: white;
+    padding: 0;
+    font-size: 40px;
+    margin-right: 600px;
+}
+.navs{
+    display: flex;
+    margin-left: 20px;
+    
+}

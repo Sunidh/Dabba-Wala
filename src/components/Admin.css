@@ -1,0 +1,36 @@
+.container{
+  border: 1px solid black;
+}
+  
+
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  max-width: 600px;
+  margin: auto;
+}
+
+label {
+  font-weight: bold;
+}
+
+input,
+textarea {
+  padding: 0.5rem;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+.add {
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+ width: 100px;
+}
+

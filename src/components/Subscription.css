@@ -1,0 +1,18 @@
+.additem{
+    background-color: coral;
+    color: white;
+}
+.additem:hover{
+    background-color: coral;
+    color: white;
+}
+.carousel{
+    width: 100%;
+    height: 300px;
+    overflow: hidden;
+}
+
+.carousel-caption{
+    /* bottom: 25rem; */
+    top: 10rem;
+}

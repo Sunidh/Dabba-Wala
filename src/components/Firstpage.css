@@ -1,0 +1,92 @@
+.firstlogin{
+    margin-right: 20px;
+    background: none;
+    color: white;
+   font-size: larger;
+   font-weight: 20px;
+   background-color: coral;
+   border-radius: 5px;
+   justify-content: center;
+   align-items: center;
+   border: none;
+   height: 30px;
+   width: 70px;
+}
+.firstcard{
+   
+    margin-top: 30px ;
+    margin-left: 30px;
+    margin-right: 30px;
+   
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+}
+.food{
+    width: 200px;
+   border-radius:10px ;
+}
+.firsttext{
+    margin-left: 10px;
+   font-size: 15px;
+}
+.secondcard{
+   
+    margin-top: 60px ;
+    margin-left: 30px;
+    margin-right: 30px;
+   
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    
+}
+.secondtext{
+    margin-right: 10px;
+}
+.orderButton{
+    background-color: coral;
+    border: none;
+    color: white;
+    margin-left: 250px;
+    margin-top: 40px;
+    height: 30px;
+    width: 100px;
+    border-radius: 5px;
+
+}
+@media only screen and (min-width: 1000px) {
+    .firstcard{
+   
+        margin-top: 40px ;
+        margin-left: 250px;
+        margin-right: 250px;
+       
+        border-radius: 50px;
+        display: flex;
+        align-items: center;
+    }
+    .food{
+        width: 200px;
+       border-radius:10px ;
+    }
+    .firsttext{
+        margin-left: 10px;
+       font-size: 15px;
+    }
+    .secondcard{
+       
+        margin-top: 100px ;
+        margin-left: 250px;
+        margin-right: 250px;
+       
+        border-radius: 50px;
+        display: flex;
+        align-items: center;
+        
+    }
+    .secondtext{
+        margin-right: 10px;
+    }
+    
+}

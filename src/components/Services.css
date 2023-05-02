@@ -1,0 +1,45 @@
+body {
+  margin: 0px;
+  padding: 0;
+}
+.cards {
+  margin: 10px;
+}
+
+.containers {
+  margin-left: 70px;
+}
+
+.cards h1 {
+  border: 2px solid white;
+  border-radius: 10px;
+  padding: 20px;
+  margin-left: 20px;
+  margin-right: 40px;
+  background: coral;
+  color: white;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.containers {
+  padding: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.cities :hover {
+  cursor: pointer;
+  background-color: coral;
+  color: white;
+}
+
+.left {
+  padding: 10px;
+}
+.middle {
+  padding: 10px;
+}
+.right {
+  padding: 10px;
+}

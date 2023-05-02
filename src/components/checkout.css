@@ -1,0 +1,24 @@
+.cartimg{
+    border-radius: 5px;
+    height: 100px;
+    
+}
+
+.checkheader{
+    background-color: coral;
+    color: white;
+    font-size: 20px;
+}
+.pay-btn{
+    background-color: coral;
+    color: white;
+}
+.pay-btn:hover{
+    background-color: coral;
+    color: white;
+}
+.pricebox{
+    
+    height: fit-content;
+    width: 50px;
+}
